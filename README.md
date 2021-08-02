@@ -19,6 +19,8 @@
   <a href = "mailto:thiago_gv@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
    
   </div>
+  
+  ![Snake animation](https://github.com/thiagofkoenigkan/thiagofkoenigkan/blob/output/github-contribution-grid-snake.svg)
 <!--
 **thiagofkoenigkan/thiagofkoenigkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
